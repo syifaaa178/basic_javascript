@@ -30,4 +30,4 @@ for(l=1;1<=3;l++){
     if(l==2){
         break
     }
-}console.log("\n")
+}console.log('\n')

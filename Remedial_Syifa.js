@@ -34,6 +34,6 @@ console.log(x = x * y);
 var s = 8;
 var r = '7';
   
-    console.log(r == 5);
-    console.log(s == 5);        
-    console.log(r == r);
+console.log(r == 5);
+console.log(s == 5);        
+console.log(r == r);
