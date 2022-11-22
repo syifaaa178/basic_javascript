@@ -1,0 +1,14 @@
+<script>
+var a = parseInt (prompt('masukan kenaikan harga'));
+var price = [100, 40, 50];
+var newPrice = [];
+
+for (var b = 0; b < price.length; b++) {
+    var r = price[b] + a;
+    newPrice.push(r);
+};
+document.write(newPrice[0] + "<br>" + newPrice[1] + "<br>" + 
+newPrice[2]);
+console.log(newPrice);
+alert(newPrice);
+</script>
